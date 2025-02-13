@@ -2,6 +2,8 @@
 
 A violence detector using a `MobileNetV2` pretrained model for violence detection and a `Faster RCNN Inception V2 COCO model` for human detection, implemented in Python. This project includes a Flask backend API and a React frontend for video upload and report display.
 
+## ARCHITECTURE DIAGRAM
+![Screenshot 2025-02-13 191230](https://github.com/user-attachments/assets/58b0a1c8-b222-4c63-99ff-d01adff6fe6d)
 
 ## STEP 1 (Human Detection) 
 
@@ -74,10 +76,9 @@ The backend processes the video and returns a detailed report including:
 Upload time, detection time, and processing duration.
 Number of violent and non-violent frames.
 A graph image showing the daily count of violent detections.
-architecture diagram and Results  screenshots:
+ Results  screenshots:
 
 
-![Screenshot 2025-02-13 191230](https://github.com/user-attachments/assets/58b0a1c8-b222-4c63-99ff-d01adff6fe6d)
 
 ![Screenshot (155)](https://github.com/user-attachments/assets/54634dbf-5d66-464c-8f27-4b67ba1ebe42)
 
