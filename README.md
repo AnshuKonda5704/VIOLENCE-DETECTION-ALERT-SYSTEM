@@ -75,9 +75,14 @@ Upload time, detection time, and processing duration.
 Number of violent and non-violent frames.
 A graph image showing the daily count of violent detections.
 architecture diagram and Results  screenshots:
-![Screenshot (157)](https://github.com/user-attachments/assets/a8b294b0-4658-4183-a5db-197f476d55cd)
-- **Technology:** Fl![Screenshot 2025-02-13 191230](https://github.com/user-attachments/assets/eb197d67-88c2-46fc-88d8-eb8725f3945f)
-ask  ![Screenshot (154![Screenshot (156)](https://github.com/user-attachments/assets/33b63d95-8df4-4aab-ace3-ccd6c4ae4b06)
-)](https://github.com/user-attachments/assets/5614af98-3653-455f-801d-dd10692dfaa2)
 
+
+![Screenshot 2025-02-13 191230](https://github.com/user-attachments/assets/58b0a1c8-b222-4c63-99ff-d01adff6fe6d)
+
+![Screenshot (155)](https://github.com/user-attachments/assets/54634dbf-5d66-464c-8f27-4b67ba1ebe42)
+
+![Screenshot (156)](https://github.com/user-attachments/assets/93774bea-c58e-4e65-bc02-44cbe054e13f)
+
+
+![Screenshot (157)](https://github.com/user-attachments/assets/bf257ed7-9470-46e4-a15b-7edd96a8c8fe)
 This README provides a brief project description and Windows-specific instructions, and result screenshots. 
