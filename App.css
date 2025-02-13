@@ -1,0 +1,204 @@
+
+/*-------------------------------------------------------------------*/
+/* Global Styles *
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* App container *
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+}
+
+/* Header styling *
+.app-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.app-header h1 {
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+
+.app-header p {
+  margin: 0;
+  color: #bbbbbb;
+}
+
+/* Upload container *
+.upload-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.file-input {
+  margin-bottom: 20px;
+  background: #1e1e1e;
+  color: #e0e0e0;
+  border: 1px solid #333;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.upload-button {
+  background-color: #6200ee;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.upload-button:disabled {
+  background-color: #555;
+  cursor: not-allowed;
+}
+
+.upload-button:hover:not(:disabled) {
+  background-color: #3700b3;
+}
+
+/* Result Card *
+.result-card {
+  background-color: #1e1e1e;
+  border-radius: 8px;
+  padding: 20px;
+  width: 80%;
+  max-width: 500px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+/* Graph Card 
+.graph-card {
+  background-color: #1e1e1e;
+  border-radius: 8px;
+  padding: 20px;
+  width: 90%;
+  max-width: 600px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.graph-image {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 5px;
+}
+
+
+
+
+
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #121212; /* Deep dark background */
+  color: #e0e0e0; /* Light text color */
+}
+
+/* App container */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  background-color: #1f1f1f; /* Slightly lighter dark for the container */
+}
+
+/* Header styling */
+.app-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.app-header h1 {
+  margin-bottom: 10px;
+  color: #f0f0f0; /* Brighter white for the title */
+}
+
+.app-header p {
+  margin: 0;
+  color: #c0c0c0; /* Lighter gray for subtitles */
+}
+
+/* Upload container */
+.upload-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.file-input {
+  margin-bottom: 20px;
+  background: #2a2a2a; /* Dark gray */
+  color: #e0e0e0;
+  border: 1px solid #444;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.upload-button {
+  background-color: #bb86fc; /* Vibrant purple accent */
+  border: none;
+  padding: 12px 24px;
+  border-radius: 5px;
+  color: #121212; /* Dark text on light accent */
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.upload-button:disabled {
+  background-color: #555;
+  cursor: not-allowed;
+}
+
+.upload-button:hover:not(:disabled) {
+  background-color: #985eff; /* Slightly darker accent on hover */
+}
+
+/* Result Card */
+.result-card {
+  background-color: #1f1f1f; /* Dark gray */
+  border-radius: 8px;
+  padding: 20px;
+  width: 80%;
+  max-width: 500px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+/* Graph Card */
+.graph-card {
+  background-color: #1f1f1f; /* Dark gray */
+  border-radius: 8px;
+  padding: 20px;
+  width: 90%;
+  max-width: 600px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.graph-image {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 5px;
+}
